@@ -1,0 +1,26 @@
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 8px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 25px 0px;
+    cursor: pointer;
+  }
+  button {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  button:hover {
+    background-color: red;
+    color: black;
+  }
+  thumb-image{
+    width:200px;
+    position:relative;
+    text-align: center;
+    padding:5px}
